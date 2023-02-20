@@ -7,23 +7,23 @@ export const products = [
   {
     id: 1,
     img: expense,
-    link: "https://github.com/rajkumarnani",
+    link: "https://rajkumarnani.github.io/expense/",
   },
   {
     id: 2,
     img: food,
-    link: "https://github.com/rajkumarnani",
+    link: "https://rajkumarnani.github.io/food-order/",
   },
   {
     id: 3,
     img: portfolio,
 
-    link: "https://github.com/rajkumarnani",
+    link: "https://rajkumarnani.github.io/portfolio/",
   },
   {
     id: 4,
     img: chat,
-    link: "https://github.com/rajkumarnani",
+    link: "http://rajkumarnani.github.io/unchat/",
   },
   // {
   //   id: 5,
